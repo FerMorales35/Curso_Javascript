@@ -181,7 +181,7 @@ const numbers2 = numbers.map(number=>(number * 2))
 console.log(numbers2) */
 
 /*
-.filter(callback) - Filtra todos los elemtnos del array que cumplan la condicion y devuelve un nuevo array
+.filter(callback) - Filtra todos los elementos del array que cumplan la condicion y devuelve un nuevo array
 */
 
 /* const numbers = [12,25,47,84,98]
