@@ -72,8 +72,5 @@ title.classList.replace('title','main-title')
 console.log(title.id)
 console.log(name.value)
 
-
-
-
 /* console.log(title)
 console.log(name) */

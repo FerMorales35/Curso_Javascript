@@ -1,27 +1,23 @@
-//Dom - Crear e insertar elementos
+//---Dom - Crear e insertar elementos
 
 /*
-Crear un elemento: document.createElement(element)
-Escribir texto en un elemento: element.textContext = texto
-Escribir HTML en un elemento: element.innerHTML = codigo HTML
+   Crear un elemento: document.createElement(element)
+   Escribir texto en un elemento: element.textContext = texto
+   Escribir HTML en un elemento: element.innerHTML = codigo HTML
 
-Añadir un elemento al DOM: parent.appendChild(element)
+   Añadir un elemento al DOM: parent.appendChild(element)
 
-Fragmentos de codigo: document.createDocumentFragment()
+   Fragmentos de codigo: document.createDocumentFragment()
 */
 
-const days = ['Lunes','Martes','Miercoles','Jueves','Viernes','Sabado','Domingo','Valor extra']
+const days = ['Lunes','Martes','Miercoles','Jueves','Viernes','Sabado','Domingo','Valor extra','Otro valor']
 
-const title = document.getElementById('title')
-const daysList = document.getElementById('daysList')
+/* const title = document.getElementById('title')
+const daysList = document.getElementById('daysList') */
 const selectDays = document.getElementById('daysSelect')
 
-/* const itemList = document.createElement('LI')
-itemList.textContent = 'Lunes'
 
-daysList.appendChild(itemList)
-
-title.innerHTML = 'Dom - <span>Crear e insertar elementos I</span>' */
+title.innerHTML = 'Dom - <span>Crear e insertar elementos I</span>'
 
 /* const fragment = document.createDocumentFragment()
 
