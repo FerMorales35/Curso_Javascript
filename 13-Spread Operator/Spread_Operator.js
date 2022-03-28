@@ -1,5 +1,5 @@
 /*
-Spread Operator (operador de expansion)
+Spread Operator (operador de expansion) Arrays y parametros
 
 Su sintasis es ...
 

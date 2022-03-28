@@ -18,13 +18,13 @@ const button = document.getElementById("button")
 const input = document.getElementById("input")
 const box = document.getElementById("box")
 
-/* button.addEventListener("click", () => {
+ button.addEventListener("click", () => {
   console.log("CLICK");
-}); */
+})
 
-/* button.addEventListener("dblclick", () => {
-    console.log("CLICK");
-}) */
+button.addEventListener("dblclick", () => {
+    console.log("Doble CLICK");
+}) 
 
 /* box.addEventListener("mouseenter", () => {
     box.classList.replace('red', 'green')
