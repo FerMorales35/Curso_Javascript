@@ -22,9 +22,7 @@ console.log(`La palabra ${palabras[1]} tiene ${palabras[1].length} letras`)
 /* Arrays - Propiedad
 Array.lenght -> devuelve el numero de posiciones que contiene el array. */
 
- 
-
-let numbers = [1,2,3,4,5]
+ let numbers = [1,2,3,4,5]
 
 console.log(numbers.length) 
 

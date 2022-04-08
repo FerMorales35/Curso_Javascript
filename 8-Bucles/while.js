@@ -1,6 +1,5 @@
-/*
-while
-*/
+
+//while
 
 let pass = "";
 
@@ -9,4 +8,3 @@ while (pass != "hola") {
 }
 
 console.log("Fin del bucle");
-
